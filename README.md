@@ -24,7 +24,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur702&" alt="mayur702" /></p>
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
