@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mayur Magar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur702&label=Profile%20views&color=0e75b6&style=flat" alt="mayur702" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayur702" alt="mayur702" /></a> </p>
 
 - 📫 How to reach me **mayurmagar702@gmail.com**
@@ -18,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayur702&show_icons=true&locale=en&layout=compact" alt="mayur702" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayur702&show_icons=true&locale=en" alt="mayur702" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur702&" alt="mayur702" /></p>
